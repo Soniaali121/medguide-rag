@@ -164,9 +164,15 @@ Evaluation is the core of this project. The plan:
 
 ## Data and Licensing
 
-Code in this repository is released under the MIT License. Guideline content is owned by the National Institute for Health and Care Excellence (NICE) and is subject to NICE's terms and licence for reuse. This repository does not redistribute guideline text: raw and processed data are git-ignored, and users download content themselves. Please review NICE's terms before use and keep usage non-commercial.
+### Code License
+The code in this repository is released under the [MIT License](LICENSE). Feel free to adapt, modify, and build upon this project.
+
+### Data & Copyright Notice
+* **Guideline Content:** All clinical guideline content is owned by the **National Institute for Health and Care Excellence (NICE)** and is subject to [NICE's terms and conditions](https://www.nice.org.uk/terms-and-conditions) for content reuse.
+* **Non-Commercial Use:** Guideline text is processed solely for personal research and demonstration purposes. 
+* **Data Privacy:** Raw downloaded text and processed vector index files are excluded via `.gitignore` and are not redistributed in this repository. Users must run the scraping script locally to generate context files.
 
 ## Author
-
-**<Mst Sonia khatun>**: MSc/BSc graduate interested in applied AI and healthcare.
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**[Sonia]** – MSc in Artificial Intelligence
+Interested in applied AI, NLP, and healthcare engineering.
+[LinkedIn](https://linkedin.com) • [GitHub](https://github.com)
