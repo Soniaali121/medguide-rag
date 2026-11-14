@@ -1,0 +1,31 @@
+{
+  "q001": {
+    "question": "What medicines should be offered to adults with type 2 diabetes and no relevant comorbidity?",
+    "type": "direct",
+    "answerable": true,
+    "top_dense_score": 0.8277230262756348,
+    "ranks": {
+      "dense only": 1,
+      "BM25 only": 1,
+      "hybrid (RRF)": 1
+    }
+  },
+  "q002": {
+    "question": "What is the first-line medicine for type 2 diabetes?",
+    "type": "vague",
+    "answerable": true,
+    "top_dense_score": 0.7373138666152954,
+    "ranks": {
+      "dense only": 2,
+      "BM25 only": null,
+      "hybrid (RRF)": 35
+    }
+  },
+  "q003": {
+    "question": "What is the best pizza topping?",
+    "type": "unanswerable",
+    "answerable": false,
+    "top_dense_score": 0.4862562417984009,
+    "ranks": {}
+  }
+}
