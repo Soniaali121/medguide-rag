@@ -1,6 +1,0 @@
-requests
-beautifulsoup4
-sentence-transformers
-faiss-cpu
-numpy
-huggingface_hub
